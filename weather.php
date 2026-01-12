@@ -1,7 +1,7 @@
 <?php
 
 // open weather api key
-$api_key = '7ae7cb7150334a07d2d55142ba25b041';
+$api_key = 'your_token_here';
 
 // only run when form is submitted
 if (isset($_POST['city'])) {
